@@ -1,6 +1,4 @@
----
 
-````markdown
 # 🛺 MyTaxi Backend (Database Assignment)
 
 This is the backend API for the **MyTaxi** ride-hailing system, built with **Node.js**, **Express**, and **MongoDB Atlas**.
