@@ -107,16 +107,6 @@ Response:
 
 ---
 
-## 🛠️ TODO / Future Improvements
-
-* [ ] Password hashing (e.g. bcrypt)
-* [ ] JWT authentication for login
-* [ ] Add driver-rider matching logic
-* [ ] Deploy to Render or Railway
-* [ ] Swagger API docs
-
----
-
 ## 👩‍💻 Author
 
 **Aina Inarah**
